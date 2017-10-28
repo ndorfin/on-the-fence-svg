@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+width="143px" height="49px" viewBox="0 0 143 49" enable-background="new 0 0 143 49" xml:space="preserve">
+<symbol id="DoorWindow" viewBox="-4 -15.5 8 31">
+<rect x="-4" y="-15.5" fill="#2A4050" width="8" height="31"/>
+</symbol>
+<symbol id="Wheel" viewBox="-7.3 -7.3 14.6 14.6">
+<circle fill="#4B4E4F" cx="0" cy="0" r="7.3"/>
+<circle fill="#D8D8D7" cx="0" cy="0" r="4.4"/>
+<circle fill="#4B4E4F" cx="0" cy="0" r="2.2"/>
+</symbol>
+<symbol id="Window" viewBox="-8 -8.5 16 17">
+<path fill="#2A4050" d="M-8-7.9V7.9c0,0.3,0.3,0.6,0.6,0.6H7.4L-8-7.9z"/>
+<path fill="#3A5966" d="M7.4,8.5C7.7,8.5,8,8.2,8,7.9V-7.9c0-0.3-0.3-0.6-0.6-0.6H-7.4C-7.7-8.5-8-8.2-8-7.9L7.4,8.5z"/>
+</symbol>
+<path id="Shadow" opacity="0.15" enable-background="new" d="M140.2,48c0,0.7-1.6,1-1.6,1H4c0,0-1.6-0.3-1.6-0.9l0,0
+C2.4,47.4,4,47,4,47h134.6L140.2,48L140.2,48z"/>
+<path id="Top_panel" fill="#F9D748" d="M141,25H1L1.6,4.8C1.6,2.2,5.5,0,8.2,0h122.5c5.7,0,10.3,4.6,10.3,10.4l0,0V25z"/>
+<use xlink:href="#Wheel" width="14.6" height="14.6" x="-7.3" y="-7.3" transform="matrix(1 0 0 -1 41.29 40.79)"/>
+<path id="Bottom_panel_1_" fill="#E5C74C" d="M122,41c0-4.9-3-9-9-9.1c-5-0.1-8,4.2-8,9.1l-4,0c0,0,0,0,0,0c0-6-4-9-8-9
+c-5,0-9,3-9,9c0,0-34,0-34,0c0-0.1,0-0.1,0-0.2c0-4.9-4-8.9-9-8.9c-5,0-9,4-9,8.9c0,0,0,0,0,0c0,0.1,0,0.1,0,0.2H6.8L1,38.9V24h140
+v15.1L130.2,41"/>
+<path id="Windscreen" fill="#2A4050" d="M2,5.5C2,5.5-0.7,17,1.2,27c1.5-1.6,2.5-3.6,2.8-5.8V6.5c0-0.6-0.4-1-1-1L2,5.5z"/>
+<path id="Headlight" fill="#ED9332" d="M2,34H1.3C0.6,34,0,33.4,0,32.7v-3.4C0,28.6,0.6,28,1.3,28H2l0,0L2,34L2,34z"/>
+<path id="Front_bumper" fill="#4B4E4F" d="M2,39H0.9C0.4,39,0,38.6,0,38.1v-1.2C0,36.4,0.4,36,0.9,36H2l0,0V39L2,39L2,39z"/>
+<path id="Rear_bumper" fill="#272634" d="M141,36h1.1c0.5,0,0.9,0.4,0.9,0.9v1.2c0,0.5-0.4,0.9-0.9,0.9H141l0,0V36L141,36L141,36z"
+/>
+<path id="Taillight" fill="#ED9332" d="M141,22h0.7c0.7,0,1.3,0.6,1.3,1.3v3.4c0,0.7-0.6,1.3-1.3,1.3H141l0,0V22L141,22z"/>
+<g id="Door">
+<use xlink:href="#DoorWindow" width="8" height="31" x="-4" y="-15.5" transform="matrix(1 0 0 -1 24 24.5)"/>
+<use xlink:href="#DoorWindow" width="8" height="31" x="-4" y="-15.5" transform="matrix(1 0 0 -1 15.0009 24.5)"/>
+</g>
+<use xlink:href="#Window" width="16" height="17" x="-8" y="-8.5" transform="matrix(1 0 0 -1 40 17.5)"/>
+<use xlink:href="#Window" width="16" height="17" x="-8" y="-8.5" transform="matrix(1 0 0 -1 58 17.5)"/>
+<use xlink:href="#Window" width="16" height="17" x="-8" y="-8.5" transform="matrix(1 0 0 -1 76 17.5)"/>
+<use xlink:href="#Window" width="16" height="17" x="-8" y="-8.5" transform="matrix(1 0 0 -1 94 17.5)"/>
+<use xlink:href="#Window" width="16" height="17" x="-8" y="-8.5" transform="matrix(1 0 0 -1 112 17.5)"/>
+<use xlink:href="#Window" width="16" height="17" x="-8" y="-8.5" transform="matrix(1 0 0 -1 130 17.5)"/>
+<use xlink:href="#Wheel" width="14.6" height="14.6" x="-7.3" y="-7.3" transform="matrix(1.0274 0 0 -1.0274 113.5 40.5)"/>
+<use xlink:href="#Wheel" width="14.6" height="14.6" x="-7.3" y="-7.3" transform="matrix(1.0274 0 0 -1.0274 92.5 40.5)"/>
+</svg>
